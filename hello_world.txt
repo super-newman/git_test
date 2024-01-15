@@ -1,1 +1,2 @@
 Here's some added to text to test git commands!
+Another lin to test commit comments!
